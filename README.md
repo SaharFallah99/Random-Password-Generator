@@ -1,6 +1,5 @@
 # Random-Password-Generator
 
-
 For this challenge, we will use a Python script to generate a random password of 8 characters. Each time the program is run, a new password will be generated randomly. The passwords generated will be 8 characters long and will have to include the following characters in any order:
 
 2 uppercase letters from A to Z
